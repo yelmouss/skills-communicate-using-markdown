@@ -25,4 +25,14 @@ const greet = (name) => {
 
 console.log(greet("GitHub"));
 
+```
+
+## Liste de tâches
+
+- [x] Ajouter des headers
+- [x] Ajouter une image
+- [x] Ajouter un exemple de code
+- [ ] Publier cette modification
+- [ ] Partager le fichier avec mon équipe
+
 
