@@ -11,3 +11,18 @@
 Voici une belle image :
 
 ![Image de Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Exemple de code
+
+### Exemple 1 : Commandes Git
+$ git init $ git add . $ git commit -m "Ajout d'un fichier"
+
+### Exemple 2 : Code JavaScript
+```javascript
+const greet = (name) => {
+  return `Bonjour, ${name}!`;
+};
+
+console.log(greet("GitHub"));
+
+
